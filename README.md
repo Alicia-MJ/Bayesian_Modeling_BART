@@ -15,7 +15,7 @@
  ## Complete Report
  The report includes a brief explanation about the experimental task, the models used, results, analysis, conclussions and references. 
  
- See [report](./Report) for more information.
+ See [report](Report.pdf) for more information.
 
   ## Datasets
  See [datasets](./Datasets) for more information.
